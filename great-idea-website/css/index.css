@@ -160,13 +160,17 @@ header {
 }
 header nav {
     display: inline-block;
+    font-family: "Montserrat", sans-serif;
 }
 header nav a {
     display: inline-block;
-    padding-right: 66px;
+    padding-right: 52px;
     text-decoration: none;
     color: black;
-    font-size: 14px;
+    font-size: 10px;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 header .logo {
